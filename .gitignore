@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+johnny5/system/node_modules/
